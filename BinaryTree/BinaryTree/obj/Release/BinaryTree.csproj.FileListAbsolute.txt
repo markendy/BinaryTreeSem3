@@ -1,0 +1,11 @@
+C:\Users\Алек\Documents\labs2K\Программирование\Programing_learning\Курсач\NewTreeProject\BinaryTree\BinaryTree\bin\Release\BinaryTree.exe.config
+C:\Users\Алек\Documents\labs2K\Программирование\Programing_learning\Курсач\NewTreeProject\BinaryTree\BinaryTree\bin\Release\BinaryTree.exe
+C:\Users\Алек\Documents\labs2K\Программирование\Programing_learning\Курсач\NewTreeProject\BinaryTree\BinaryTree\bin\Release\BinaryTree.pdb
+C:\Users\Алек\Documents\labs2K\Программирование\Programing_learning\Курсач\NewTreeProject\BinaryTree\BinaryTree\obj\Release\BinaryTree.csprojAssemblyReference.cache
+C:\Users\Алек\Documents\labs2K\Программирование\Programing_learning\Курсач\NewTreeProject\BinaryTree\BinaryTree\obj\Release\BinaryTree.Form1.resources
+C:\Users\Алек\Documents\labs2K\Программирование\Programing_learning\Курсач\NewTreeProject\BinaryTree\BinaryTree\obj\Release\BinaryTree.Form2.resources
+C:\Users\Алек\Documents\labs2K\Программирование\Programing_learning\Курсач\NewTreeProject\BinaryTree\BinaryTree\obj\Release\BinaryTree.Properties.Resources.resources
+C:\Users\Алек\Documents\labs2K\Программирование\Programing_learning\Курсач\NewTreeProject\BinaryTree\BinaryTree\obj\Release\BinaryTree.csproj.GenerateResource.cache
+C:\Users\Алек\Documents\labs2K\Программирование\Programing_learning\Курсач\NewTreeProject\BinaryTree\BinaryTree\obj\Release\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\Алек\Documents\labs2K\Программирование\Programing_learning\Курсач\NewTreeProject\BinaryTree\BinaryTree\obj\Release\BinaryTree.exe
+C:\Users\Алек\Documents\labs2K\Программирование\Programing_learning\Курсач\NewTreeProject\BinaryTree\BinaryTree\obj\Release\BinaryTree.pdb
